@@ -1,0 +1,28 @@
+/*	Készítette: Papp Tibor /VPYAS4/ */
+
+A:link {
+	COLOR: #191970;
+	TEXT-DECORATION: none
+}
+
+A:visited {
+	color: #0A246A;
+	TEXT-DECORATION: none
+}
+
+A:hover {
+	COLOR: ThreedDarkShadow;
+	TEXT-DECORATION: underline
+}
+
+td{
+	font-family: verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: justify;
+}
+
+h1 {
+	text-align : center;
+	font-family : "Times New Roman";
+	color : InactiveCaption;
+}

@@ -1,0 +1,13 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=KipBill.chm
+Contents file=KipBill.hhc
+Default topic=Hasznalat.htm
+Display compile progress=No
+Index file=D:\KepBill\Help\KipBill.hhk
+Language=0x40e magyar
+Title=Képernyõ-billentyûzet
+
+
+[INFOTYPES]
+
