@@ -34,7 +34,7 @@ end;
 
 procedure TAboutForm.Label1Click(Sender: TObject);
 begin
-  ShellExecute(0,'open','http://mortens.uw.hu/Prg/KipBill.zip',nil, nil, 0);
+  ShellExecute(0,'open','https://github.com/Mortens4444/KepBill/archive/master.zip',nil, nil, 0);
 end;
 
 end.
